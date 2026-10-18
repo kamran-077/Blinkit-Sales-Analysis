@@ -2,7 +2,7 @@
 
 A data analytics project on **BlinkIT**, a quick-commerce grocery platform. Using **Excel** and **Power BI**, I cleaned the raw sales data, explored it, and built an interactive dashboard that shows which outlets, locations and product categories drive sales.
 
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](images/executive_summaryBLINKIT.png)
 
 ---
 
@@ -61,11 +61,11 @@ Every page has slicers for outlet type, size, location tier, establishment year 
 
 **Executive Summary**
 
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](images/executive_summaryBLINKIT.png)
 
 **Outlet Performance**
 
-![Outlet Performance](images/outlet_performance.png)
+![Outlet Performance](images/outlet_performanceBLINKIT.png)
 
 ## 💡 Key Insights
 
