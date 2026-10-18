@@ -61,11 +61,11 @@ Every page has slicers for outlet type, size, location tier, establishment year 
 
 **Executive Summary**
 
-![Executive Summary](images/executive_summaryBLINKIT.png)
+![Executive Summary](executive_summaryBLINKIT.png)
 
 **Outlet Performance**
 
-![Outlet Performance](images/outlet_performanceBLINKIT.png)
+![Outlet Performance](outlet_performanceBLINKIT.png)
 
 ## 💡 Key Insights
 
@@ -115,8 +115,8 @@ Every page has slicers for outlet type, size, location tier, establishment year 
 
 ## 👨‍💻 Author
 
-Made by **<Your Name>**
-GitHub: [@<your-username>](https://github.com/<your-username>)
+Made by **<KAMRAN SHAHID>**
+GitHub: [@<your-username>](https://github.com/<kamran-077>)
 
 ---
 
